@@ -34,16 +34,16 @@ npm install shepherd.js --save
 Then run the live server which directs you to the website. 
 ## Screenshots
 
-![App Screenshot](https://github.com/itssarvani394/Healthcare-Dashboard/assets/129776752/69c5b2ab-23c0-4861-a7f9-8a96159e7c47)
+![App Screenshot](https://github.com/itssarvani394/Healthcare-Dashboard/assets/129776752/585a7cb7-3293-4ca9-85fd-328f3bc6cac2)
 
-![App Screenshot](https://github.com/itssarvani394/Healthcare-Dashboard/assets/129776752/e237acb1-89a3-464e-b755-1a6bf1c61eac)
+![App Screenshot](https://github.com/itssarvani394/Healthcare-Dashboard/assets/129776752/05f5fa0b-070f-4ab9-9ec4-32a0461510d0)
 
-![App Screenshot](https://github.com/itssarvani394/Healthcare-Dashboard/assets/129776752/b5760525-394f-4e05-98de-2e0905f774b4)
+![App Screenshot](https://github.com/itssarvani394/Healthcare-Dashboard/assets/129776752/35577db3-1a6e-4b3e-a760-162085623c97)
 
 
 ## Demo
 
-Insert gif or link to demo
+[![YouTube](http://i.ytimg.com/vi/CHfYuUWbzQs/hqdefault.jpg)](https://www.youtube.com/watch?v=CHfYuUWbzQs)
 
 
 ## License
