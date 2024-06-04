@@ -45,6 +45,8 @@ Then run the live server which directs you to the website.
 
 [![YouTube](http://i.ytimg.com/vi/CHfYuUWbzQs/hqdefault.jpg)](https://www.youtube.com/watch?v=CHfYuUWbzQs)
 
+[![](https://github.com/itssarvani394/Healthcare-Dashboard/assets/129776752/f9bac6fb-44b4-42ef-ae68-a08609e83f4f)](https://www.youtube.com/watch?v=CHfYuUWbzQs)
+
 
 ## License
 
