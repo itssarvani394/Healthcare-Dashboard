@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Healthcare Dashboard</title>
+  <link rel="stylesheet" href="./src/styles/styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/shepherd.js/8.0.0/css/shepherd.css">
+  <link rel="stylesheet" href="./src/styles/shepherd.css">
+</head>
+
+<body>
+  <header class="header">
+      <h1 class="logo">Healthcare Dashboard</h1>
+      <div class="header-end">
+        <h2>Contact Us</h2>
+        <h2>FAQs</h2>
+      </div>
+  </header>
+
+  <aside class="sidebar">
+    <nav>
+      <ul>
+        <li><a href="index.html">Dashboard</a></li>
+        <li><a href="patients.html">Patients</a></li>
+        <li><a href="appointments.html">Appointments</a></li>
+        <li><a href="reports.html">Reports</a></li>
+        <li><a href="settings.html">Settings</a></li>
+      </ul>
+    </nav>
+  </aside>
+
+  <main class="main-content">
+    <div class="container">
+      <section class="dashboard-columns">
+        <div class="dashboard-column">
+          <img src="../assets/img3.png" alt="" class="image">
+        </div>
+        <div class="dashboard-column">
+          <img src="../assets/img4.png" alt="" class="image">
+        </div>
+        <div class="dashboard-column">
+          <img src="../assets/img5.png" alt="" class="image">
+        </div>     
+        <div class="dashboard-column row2">
+          <img src="../assets/img6.png" alt="" class="image">
+        </div>  
+        <div class="dashboard-column">
+          <div class="card">
+            <h2>Patients Overview</h2>
+            <div class="graph-container">
+              <img src="../assets/img1.png" alt="" class="image">
+            </div>
+          </div>
+        </div>
+        <div class="dashboard-column row3">
+          <div class="card">
+            <h2>Appointment Schedule</h2>
+            <div class="schedule">
+              <!-- Placeholder for schedule content -->
+              <div class="appointment">
+                <span class="time">9:00 AM</span>
+                <span class="description">Patient Checkup</span>
+              </div>
+              <div class="appointment">
+                <span class="time">11:00 AM</span>
+                <span class="description">MRI Scan</span>
+              </div>
+              <div class="appointment">
+                <span class="time">2:00 PM</span>
+                <span class="description">Consultation</span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="dashboard-column row3">
+          <img src="../assets/img7.png" alt="" class="image">
+        </div>  
+      </section>
+    </div>
+  </main>
+
+  <button id="start-tour" class="start-tour">Start Tour</button>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/shepherd.js/8.0.0/js/shepherd.min.js"></script>
+  <script src="./src/js/tour.js"></script>
+</body>
+
+</html>
